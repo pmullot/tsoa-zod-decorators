@@ -1,6 +1,6 @@
 # Type-Safe API Validation with TSOA and Zod
 
-Welcome to the repository for the article **"Supercharge Your API with Type-Safe Validation using TSOA and Zod Decorators"**, published on Medium. This repo demonstrates how to integrate **TSOA** and **Zod** for building robust, type-safe REST APIs in Node.js with runtime validation.
+Welcome to the repository for the article [**"Supercharge Your API with Type-Safe Validation using TSOA and Zod Decorators"**](https://medium.com/@pmullot/api-parameters-validation-with-tsoa-zod-and-decorators-17712216adce), published on Medium. This repo demonstrates how to integrate **TSOA** and **Zod** for building robust, type-safe REST APIs in Node.js with runtime validation.
 
 ## Table of Contents
 - [Overview](#overview)
