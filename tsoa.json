@@ -1,0 +1,19 @@
+{
+  "noImplicitAdditionalProperties": "silently-remove-extras",
+  "entryFile": "./src/index.ts",
+  "controllerPathGlobs": [
+    "./src/**/*.controller.ts"
+  ],
+  "compilerOptions": {
+    "basePath": "." 
+  },
+  "spec": {
+    "host": null,    
+    "specVersion": 3,
+    "outputDirectory": "./src/swagger"
+  },
+  "routes": {    
+    "routesDir": "./src",
+    "middleware": "express"    
+  }
+}

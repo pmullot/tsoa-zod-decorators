@@ -1,0 +1,33 @@
+
+# Exclude dependencies
+node_modules/
+lib/
+bin/
+!src/lib
+.idea
+.vscode
+docs
+build
+coverage
+
+.npmrc
+
+# Visual code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+.DS_Store
+
+package-lock.json
+yarn.lock
+
+# remove this comment. you should not commit your .env file to git
+# .env
+
