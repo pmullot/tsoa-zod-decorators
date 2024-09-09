@@ -30,7 +30,7 @@ Before you begin, make sure you have the following installed:
 
    ```bash
    git clone https://github.com/pmullot/tsoa-zod-decorators.git
-   cd tsoa-zod-api-validation```
+   cd tsoa-zod-decorators```
 
 2. **Install the dependencies**:
    ```npm install```  
