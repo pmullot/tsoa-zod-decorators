@@ -29,7 +29,7 @@ Before you begin, make sure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/tsoa-zod-api-validation.git
+   git clone https://github.com/pmullot/tsoa-zod-decorators.git
    cd tsoa-zod-api-validation```
 
 2. **Install the dependencies**:
